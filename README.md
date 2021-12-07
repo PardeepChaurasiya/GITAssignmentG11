@@ -1,2 +1,2 @@
 # GIT-AssignmentG11
-GIT Cherry pie
+GIT Cherry pick
